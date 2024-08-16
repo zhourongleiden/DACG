@@ -15,3 +15,14 @@ phase only.
 ## Model training
 Please run `python main.py --dataset_name name` to train a DACG model from scratch <br>
 (Please choose the "name" from {eth,hotel,univ,zara1,zara2})
+## Citation
+If you find this repository useful, please cite: <br>
+@article{zhou2022dynamic,<br>
+  title={Dynamic attention-based CVAE-GAN for pedestrian trajectory prediction},<br>
+  author={Zhou, Zhou and Huang, Gang and Su, Zhaoxin and Li, Yongfu and Hua, Wei},<br>
+  journal={IEEE Robotics and Automation Letters},<br>
+  volume={8},<br>
+  number={2},<br>
+  pages={704--711},<br>
+  year={2022},<br>
+  publisher={IEEE}}
