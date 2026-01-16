@@ -28,13 +28,13 @@ If you find this repository useful, please cite: <br>
   publisher={IEEE}}
 
 <br>
-@article{su2025improving,
-  title={Improving generative trajectory prediction via collision-free modeling and goal scene reconstruction},
-  author={Su, Zhaoxin and Huang, Gang and Zhou, Zhou and Li, Yongfu and Zhang, Sanyuan and Hua, Wei},
-  journal={Pattern Recognition Letters},
-  volume={188},
-  pages={117--124},
-  year={2025},
+@article{su2025improving,<br>
+  title={Improving generative trajectory prediction via collision-free modeling and goal scene reconstruction},<br>
+  author={Su, Zhaoxin and Huang, Gang and Zhou, Zhou and Li, Yongfu and Zhang, Sanyuan and Hua, Wei},<br>
+  journal={Pattern Recognition Letters},<br>
+  volume={188},<br>
+  pages={117--124},<br>
+  year={2025},<br>
   publisher={Elsevier}
 }
 
